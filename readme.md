@@ -25,4 +25,5 @@ The flow of the Application is as follows :
 
 
 I have also added an icon to the application as follows:
-![App Icon](./Screenshots/App_icon_Screenshot.jpg)  
+<img src="./Screenshots/App_icon_Screenshot.jpg" width="48">
+<!-- ![App Icon](./Screenshots/App_icon_Screenshot.jpg)   -->
