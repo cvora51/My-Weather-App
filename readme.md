@@ -17,7 +17,7 @@ The flow of the Application is as follows :
 
 
 4] After entering the city name for eg "DELHI", you might get the following results:
-![Other Location-2](./Screenshots/Other_loc_Screenshot- (2).jpg)  
+![Other Location-2](./Screenshots/Other_loca_Screenshot.jpg)  
 
 
 5] You can quit the application as I have added an alert if you aren't sure to quit the application
