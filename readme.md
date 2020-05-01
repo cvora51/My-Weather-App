@@ -4,7 +4,7 @@ This is a Smart Weather Application which displays basic weather information dep
 
 The Weather information exactly contains City/Area name, Temperature (in degrees), Pressure, Humidity, etc. This application supports only Android devices as it is built with Java as a Backend language and XML as a front end language.
 
-The flow of the Application is as follows :
+## The flow of the Application is as follows :
 
 1] Application starts with a splash screen displaying the application name with an animation.
 
