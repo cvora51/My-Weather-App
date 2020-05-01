@@ -7,7 +7,7 @@ The Weather information exactly contains City/Area name, Temperature (in degrees
 The flow of the Application is as follows :
 
 1] Application starts with a splash screen displaying the application name with an animation.
-  ![Splash Screen](./Screenshots/Splashschreen_screenshot.jpg)  
+  ![Splash Screen](./Screenshots/Splashschreen_screenshot.png)  
 
 2] Then the next screen is the main screen where a user can get to know about the temperature of his/her current location, For Eg. His location is XYZ area, so the application detects the location and fetches the information through API and returns the response in JSON Format. We need to provide the access to location on our mobile manually.
 ![Main Screen](./Screenshots/MainScreen_Screenshot.jpg)  
